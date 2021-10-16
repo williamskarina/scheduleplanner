@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## User Story
@@ -24,3 +25,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+=======
+# scheduleplanner
+
+Schedule Planner that shows the current time, business hours, allows the business hours to be filled with details, and is color coded based on time.
+>>>>>>> db2bf479aef3b8a563bdeceff966f733eca1a063
